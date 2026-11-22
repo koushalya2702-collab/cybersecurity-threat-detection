@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+cybersecurity.db
+!artifacts/*.joblib
+data/raw/*.csv
